@@ -1,8 +1,10 @@
-# React + Vite
+# Front-end of Chat App "PacChat"
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The project "PacChat" is a Chat App with Pac-man as a main theme. 
+In addition to standard chat apps features (sending messages, emojis,... between two users, login, signup, see connected users, access the messages history...), it has an integrated Pac-man game so that you can play when there is no one to talk with !
 
-Currently, two official plugins are available:
+This repository contains the Front-end part of the app in React + Vite.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+(For the Back-end part in .Net Core 6 and MS SQL Server, go to the repository "PacChat-backend").
+
+
